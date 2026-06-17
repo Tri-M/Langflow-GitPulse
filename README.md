@@ -26,7 +26,7 @@ GitPulse splits core analysis from layout formatting by isolating processing res
 
 ## 💻 Source Code: Custom Ingestion Component
 
-This is the complete backend source code pasted into the custom component card inside the Langflow canvas. It maps local Python code directly into clean text string formats readable by prompt modules.
+ It maps local Python code directly into clean text string formats readable by prompt modules.
 
 ```python
 import ast
