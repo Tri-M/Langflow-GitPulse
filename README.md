@@ -1,3 +1,4 @@
+
 # GitPulse : Multi-Agent Architectural Code Auditor & Compliance Engine
 
 | Portfolio Matrix | Project Specifications |
@@ -11,6 +12,8 @@
 
 
 Most portfolio projects are basic AI wrappers that send flat text to a single prompt box. **GitPulse** mirrors actual enterprise-grade code engineering workflows. It implements a decoupled, visual multi-agent layout to extract structural software source files via an abstract syntax tree, runs automated vulnerability scans, and outputs a strict, deterministic JSON object payload. This payload is passed across an agent boundary to trigger a documentation generation engine without a single structural parsing failure.
+
+<img width="879" height="672" alt="Screenshot 2026-06-17 160321" src="https://github.com/user-attachments/assets/0ac26f3c-d230-49bc-8331-f06fea72c3e5" />
 
 ---
 
